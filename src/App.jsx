@@ -9,7 +9,7 @@ const CONFIG = {
   phone: "(571) 346 0311",
   resume: "SnehaRathi_Resume.pdf",
   headline:
-    "I love coding things that work beautifully, from full stack web apps to scalable cloud systems.",
+    "Engineering Simplicity in Every Line of Code.",
 };
 
 const SUMMARY = `I’m a Master’s in Computer Science graduate from George Mason University with a passion for building scalable, intelligent, and user-centered software solutions. I love turning ideas into clean, functional web and cloud applications that make technology simple and impactful. My experience spans full-stack development, cloud deployment, and AI integration, from building RESTful APIs and automating workflows with Docker and Kubernetes to implementing CI/CD pipelines on AWS. I enjoy creating software that blends creativity with performance, solving real-world problems through code that works beautifully and efficiently.`;
